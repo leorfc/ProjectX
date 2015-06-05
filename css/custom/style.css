@@ -1,8 +1,9 @@
-/* All patterns must be here, font styles, background/font colors */
-/*Always relative values (%)*/
+/* All patterns must be here, font styles, background/font colors 
+Always relative values (%)*/
 body
 {
-	background-color: #272822;
+	/*background-color: #272822; (Yet to decide)*/
+	background-color: #1F1F1F;
 }
 
 /*Section style*/
@@ -10,14 +11,15 @@ section .jumbotron
 {
 	background-color: black;
 	color: white;
-	margin-top: -1.5%;
+	/*margin-top: -1%;*/
+	text-align: center;
 }
 
 section #homeimg
 {
 	height: inherit;
 	width: inherit;
-	margin-top: -1.5%;
+	/*margin-top: -1.5%;*/
 
 }
 
