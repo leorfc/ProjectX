@@ -14,3 +14,4 @@
 -Compra do domínio no registro.br
 -Criação das redes sociais e inserção no rodapé com o link
 -Alimentar as redes sociais com conteúdo
+-Adicionar scrolling suave
