@@ -5,10 +5,29 @@ body
 	background-color: #272822;
 }
 
+/*Section style*/
+section .jumbotron
+{
+	background-color: black;
+	color: white;
+	margin-top: -1.5%;
+}
+
+section #homeimg
+{
+	height: inherit;
+	width: inherit;
+	margin-top: -1.5%;
+
+}
+
+
+
 /*Footer style*/
 footer #footerline
 {
-	width: 95%;
+	width: 100%;
+	border-color: white;
 }
 
 footer #copyright
