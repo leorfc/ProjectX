@@ -1,9 +1,18 @@
+/* All patterns must be here, font styles, background/font colors */
+/*Always relative values (%)*/
 body
 {
-
+	background-color: #272822;
 }
 
-footer p
+/*Footer style*/
+footer #footerline
+{
+	width: 95%;
+}
+
+footer #copyright
 {
 	text-align: center;
+	color: white;
 }

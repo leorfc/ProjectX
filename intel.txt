@@ -1,4 +1,5 @@
--Eventos por casa (informação completa)
+-Eventos (do dia)
+-Casa (lista de boates)
 -Data
 -Valores se possível (Consumação mínima ou valor do ingresso)
 -Endereço (API Google Maps talvez)
